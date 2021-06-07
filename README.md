@@ -1,11 +1,13 @@
 # Countries-Orders-Dashboard
 
-The 5 indicators produced in this dashboard are: The number of orders delivered per employee and per country
+The 5 indicators produced in this dashboard are: 
 
-The last 5 orders per country
+- The number of orders delivered per employee and per country
 
-Evolution of annual orders by country
+- The last 5 orders per country
 
-Orders not delivered on time
+- Evolution of annual orders by country
 
-Countries which order more
+- Orders not delivered on time
+
+- Countries which order more

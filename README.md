@@ -1,4 +1,4 @@
-# Countries-Orders-Dashboard
+# Countries-Sales-Dashboard
 
 The 5 indicators produced in this dashboard using Power BI are: 
 
